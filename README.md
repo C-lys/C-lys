@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Pardon our appearance as I try to figure out how to populate the gitbub with my projects...
+Pardon our appearance as I populate the gitbub with my projects...
 
 <!--
 **C-lys/C-lys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
