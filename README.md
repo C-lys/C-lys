@@ -1,6 +1,9 @@
-## Hello there 👋
+## Hello world 👋
 
-Pardon our appearance as I populate the gitbub with my projects...
+Welcome to my humble github.... 
+
+It's not much right now but we all start somewhere, right? 
+Feel free to take a look around, stay for as long as you want :)
 
 <!--
 **C-lys/C-lys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
